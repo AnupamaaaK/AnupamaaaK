@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e5aef7a2-22b1-404a-8afc-8c0e8214fbb8" width="120">
+  <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e5aef7a2-22b1-404a-8afc-8c0e8214fbb8" width="120"> -->
 </p>
 
 <h2 align="center" style="font-family: 'Source Code Pro', monospace; color:#00bfa6;">
