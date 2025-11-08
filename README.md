@@ -76,9 +76,9 @@ Currently learning **Next.js**, **TypeScript**, and **GraphQL** to push my full-
   <a href="https://github.com/AnupamaaaK" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0d1117&logoColor=00bfa6&style=for-the-badge" height="30" alt="github logo" />
   </a>
-  <a href="https://drive.google.com/" target="_blank">
+  <!-- <a href="https://drive.google.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=google-drive&label=&color=0d1117&logoColor=00bfa6&style=for-the-badge" height="30" alt="resume logo" />
-  </a>
+  </a> -->
 </div>
 
 ---
